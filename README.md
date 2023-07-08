@@ -40,17 +40,17 @@ This data represents the results of exploratory analysis performed on a collecti
 
 1. Which establishments have a hygiene score equal to 20? There are 41 establishments with a hygiene score of 20. Here is an example of one:
 
-Establishment Name: The Chase Rest Home
-Address: 5-6 Southfields Road, Eastbourne, East Sussex
-Business Type: Caring Premises
-Rating Value: 0
+- Establishment Name: The Chase Rest Home
+- Address: 5-6 Southfields Road, Eastbourne, East Sussex
+- Business Type: Caring Premises
+- Rating Value: 0
 
 2. Which establishments in London have a RatingValue greater than or equal to 4? There are 34 establishments in London that have a RatingValue greater than or equal to 4. Here is an example of one:
    
-Establishment Name: Charlie's
-Address: Oak Apple Farm Building 103 Sheerness Docks, Sheppy Kent
-Business Type: Other catering premises
-Hygiene Score: 0
+- Establishment Name: Charlie's
+- Address: Oak Apple Farm Building 103 Sheerness Docks, Sheppy Kent
+- Business Type: Other catering premises
+- Hygiene Score: 0
 
 4. What are the top 5 establishments with a RatingValue rating value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"? Here are the top 5 establishments with a `RatingValue` rating value of 5, sorted by the lowest hygiene score and nearest to the new restaurant "Penang Flavours":
 
@@ -86,16 +86,16 @@ Hygiene Score: 0
 
 5. How many establishments in each Local Authority area have a hygiene score of 0? There are 55 Local Authority areas in total, and the number of establishments with a hygiene score of 0 in each area is as follows:
    
-Thanet: 1130 establishments
-Greenwich: 882 establishments
-Maidstone: 713 establishments
-Newham: 711 establishments
-Swale: 686 establishments
-Chelmsford: 680 establishments
-Medway: 672 establishments
-Bexley: 607 establishments
-Southend-On-Sea: 586 establishments
-Tendring: 542 establishments
+- Thanet: 1130 establishments
+- Greenwich: 882 establishments
+- Maidstone: 713 establishments
+- Newham: 711 establishments
+- Swale: 686 establishments
+- Chelmsford: 680 establishments
+- Medway: 672 establishments
+- Bexley: 607 establishments
+- Southend-On-Sea: 586 establishments
+- Tendring: 542 establishments
 These are the first 10 results, and there are 55 rows in total. Each row represents a Local Authority area, and the 'count' column indicates the number of establishments in that area with a hygiene score of 0.
 
 
