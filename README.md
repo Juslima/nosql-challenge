@@ -96,6 +96,7 @@ This data represents the results of exploratory analysis performed on a collecti
 - Bexley: 607 establishments
 - Southend-On-Sea: 586 establishments
 - Tendring: 542 establishments
+  
 These are the first 10 results, and there are 55 rows in total. Each row represents a Local Authority area, and the 'count' column indicates the number of establishments in that area with a hygiene score of 0.
 
 
